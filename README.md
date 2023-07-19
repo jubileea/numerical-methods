@@ -44,11 +44,11 @@ Objective: Use Euler's method, RK2 (Runge-Kutta 2), and RK4 (Runge-Kutta 4) to s
 - y0 = 1;          
 - up to time T=2  with B2 = 0.5 (beta2 = 0.5) 
 %--------------------------------------------------------------
-Part 2:
+- Part 2:
 - Also create RK2 of your own, choosing B2 different from .5 and 1 . 
 - Use varying steps  n = 2^i   first i = 2, until i = 12 (last n is 4096) 
 %-------------------------------------------------------------
-Part 3:
+- Part 3:
 - Plot solutions on one or more graphs w diff colors for the methods
 assume RK 4 with n= 8192 = true solution
 - Plot log of the error vs log(n) for all 4 graphs -> 4 lines
