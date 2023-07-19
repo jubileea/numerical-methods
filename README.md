@@ -1,5 +1,5 @@
 # numerical-methods
-Code from my numerical methods class at university
+Code from my numerical methods class at university. 
 The following are descriptions of each of my code files
 
 hw3probl2.m -> HW 3 Problem 2 
