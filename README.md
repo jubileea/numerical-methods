@@ -39,7 +39,7 @@ Sub.) errors dominate and where Taylor polynomial derived error dominates
 
 
 JL_P1.m -> Final Problems 1 and 2
-Objective: Use Euler's method, RK2 (Runge-Kutta 2), and RK4 (Runge-Kutta 4) to solve
+- Objective: Use Euler's method, RK2 (Runge-Kutta 2), and RK4 (Runge-Kutta 4) to solve
 - ydot = e^(-y) x (sin(t+2 x pi x y) ) ; 
 - y0 = 1;          
 - up to time T=2  with B2 = 0.5 (beta2 = 0.5) 
@@ -55,7 +55,7 @@ assume RK 4 with n= 8192 = true solution
 - Comment on the slopes
 
 JL_p3.m -> Final Problem 3
-Objective: Use RK4 to solve
+- Objective: Use RK4 to solve
 - ydot = g(t,y)
 - y0 = 4   
 - g is the solution of z = exp(  -(1+sin(z) )  ) - ( ( sin(t+y) )^2) x (1+z^2)^(1/3)   ****in this code, b = z
